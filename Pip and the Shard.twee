@@ -1,0 +1,402 @@
+:: StoryTitle
+Pip and the Shard
+
+
+:: StoryData
+{
+  "ifid": "A9E8A509-4613-4F8E-991C-400E8AB35701",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Pip and the Shard",
+  "zoom": 1
+}
+
+
+:: Approach the woman {"position":"925,1300","size":"100,100"}
+The woman looks up at Pip, with a soft smile in her face. She reaches into her pocket and holds up a key.
+
+She hands Pip the key.
+
+[[Take Key]]
+
+
+:: Channel {"position":"850,975","size":"100,100"}
+Pip has a choice. He can make his arrow a frost arrow or a fire arrow.
+
+What should he do?
+
+Shoot his [[fire arrows]] into the fireflies, or [[frost arrow]] at them?
+
+
+
+
+:: Channel Eldritch Spirit {"position":"1725,1050","size":"100,100"}
+He follows the humming to a tree that isn't too far from the swamp. Pip sees a tree with a key that is tied from a string, it is hanging over a trap.
+
+Pip doesn't want to get caught in the trap.
+
+Help him climb the tree.
+
+[[Climb Tree]]
+
+
+:: Climb Tree {"position":"1900,1050","size":"100,100"}
+He climbes the tree with ease. Pip goes out on the branch. Creaking with every step.
+
+The branch becomes wobbly, he jumps for the key! Pip has the key in his hand, and falls into the trap below.
+
+Pip can't get out of this trap, for he isn't tall enough to get out. He has failed his mission. 
+
+He looks down at his shattered key. Three days later his beaver friends push a log into the hole and he is saved. 
+
+With a heavy heart Pip returns to the glowing paths.
+
+(text-colour:red)[[Follow the glow]] 
+
+
+:: Eldritch Spirit {"position":"225,875","size":"100,100"}
+Pip has a choice here. He can either fight Grook with a small bow and one arrow, or he can sneak behind Grook and get the key out of the chest. 
+
+Help Pip choose: [[Fight]] or [[Sneak around]].
+
+
+:: Enter Pips world {"position":"1000,425","size":"100,100"}
+Pip runs through the forest, jumps onto the tree branch, and swings on a vine. He lands on the ground slamming his mysical staff as he lands. Pip, raises his head. He looks forward and sees glowing down the overgrown path. 
+
+[[Follow the glow]]
+
+
+:: Fight {"position":"0,750","size":"200,200"}
+Pip runs quickly towards Grook! Grook shoots acid out of his forehead. 
+
+Pip goes to take his shot, and Grooks acid hits him, rendering him unable to carry on...
+
+If only he had a few more arrows...
+ 
+All is lost. The forest is consumed by darkness. 
+
+(text-colour:red)[[Follow the glow]]
+
+
+:: Follow the glow {"position":"1000,550","size":"100,100"}
+Pip comes upon three seperate paths.
+Which path does Pip take?
+
+The [[left path]] glows green.
+The [[right path]] glows purple.
+The [[center path]] glows red. 
+
+
+:: Follow the noise {"position":"50,1350","size":"100,100"}
+Pip continues hearing the ringing. It gets stronger as he walks toward a huge cliff!
+
+Pip squints his eyes, and sees an old music box sitting at the base of the cliff.
+
+He walks up to it, and puts the key in the lock.
+
+[[Twist Key]]
+
+
+
+:: Jump {"position":"1350,1150","size":"100,100"}
+Pip doesn't quite make the jump and the tail hits him. The snake rushes over and coils Pip up and swallows him whole. 
+
+As Pip is going down the snakes throat he sees a key dangling from its uvula. Pip continues to slide down the throat. 
+
+Help Pip pounce on the uvula!
+
+[[Pounce]]
+
+
+
+
+:: Lay Pip down for a fat nap {"position":"1050,1900","size":"100,100"}
+You helped Pip save his world! Pip will protect the shard for as long as he lives.
+
+It will be passed down from generation to generation to prevent darkness from taking over the land again! 
+
+(text-colour:yellow)[[Pip and the Shard]] 
+
+
+:: Leave the swamp and get on the path {"position":"1375,1375","size":"100,100"}
+Down the path Pip goes. He is tired from his battle. His hand on his stomach as it growls, and the key in his other hand. He walks for ten days. 
+
+He has almost given up hope.
+
+On the tenth night the moon reaches its highest point in the sky, a beam of light shines from it. 
+
+Help Pip get there. 
+
+[[Walk to the beam of light]]
+
+
+:: Left {"position":"1350,950","size":"100,100"}
+Pip runs to the left! The snakes tail whips around! 
+
+Help Pip jump over the tail!
+
+[[Jump]]
+
+
+:: Lift arm and put key in hole {"position":"1350,1600","size":"100,100"}
+With all his strength he twists the key. The lid pops open, a huge beam of purple light shoots into the sky!
+
+Pip smiles at its beauty. He stands up and sqints his eyes. Once his eyes adjusts to the bright light he sees it..
+
+THE SHARD OF DUSKORA! 
+
+Pip [[reaches in the chest]].
+
+
+:: Listen to whispers {"position":"1000,300","size":"100,100"}
+In this dying forest lives Pip, the red panda. He has a sworn duty to heal the forest by finding the Shard of Duskora. This shard has been lost for centuries, Pip is determined to find it.
+
+[[Enter Pips world]]
+
+
+:: Look Forward {"position":"1450,700","size":"100,100"}
+THERE! The path continues, now he must get across the swamp.
+
+Pip takes a few steps and  is waist deep in the water. He sees the purple eyes go beneath the water. 
+
+He needs to get across fast!
+
+[[Run!]]
+
+
+:: Open door {"position":"175,1050","size":"100,100"}
+The door opens quietly. Pip peaks around the corner only to find out that this door leads to the chest that has the key in it! This must be behind Grook!
+
+Pip walks slowly behind Grook. He reaches towards the chest. 
+[[Open the chest]]
+
+
+:: Open the chest {"position":"175,1225","size":"100,100"}
+A KEY! Pip smiles with excitement. Slowly closes the chest and walks back out the way he came.
+
+He looks at the key, shocked by its beauty, and continues down the path.
+
+He hears a ringing in the distance. 
+
+[[Follow the noise]]
+
+
+
+
+
+
+
+:: Pip and the Shard {"position":"1000,175","size":"100,100"}
+In a world, where magic is woven into the fabric of existance. Those willing to believe in this magic will hear the whispers of the enchanted forest call to them.
+[[Listen to whispers]].
+
+
+:: Place Key {"position":"650,1700","size":"100,100"}
+The door opens. It is the entrance of a maze. 
+
+Pip walks around the maze for three days and three nights. He is lost. All hope is lost. 
+
+He cries out. Darkness has taken over the forest and won. Pip has failed. 
+
+After many moons he finds his way out of the maze. He walks back to where he started.
+
+(text-colour:red)[[Follow the glow]] 
+
+
+:: Pounce {"position":"1475,1250","size":"100,100"}
+He sucessfully makes it! He grabs they key, and in one motion he grabs the arrow off his back and slices open the side of the snake from within! 
+
+He falls a great distance into the water, the snake colapses and dies.
+
+Pip coughs up water and stands up. Holding the key. 
+
+[[Leave the swamp and get on the path]]
+
+
+:: Right {"position":"1675,875","size":"100,100"}
+Pip runs to  right of the swamp the snake does not follow. 
+
+He hears a soft humming. 
+
+Help Pip find the source of the humming.
+
+Pip channels his Eldritch Spirit. 
+
+[[Channel Eldritch Spirit]]
+
+
+
+
+
+
+:: Run! {"position":"1475,825","size":"100,100"}
+Pip is going as fast as he can in the water, his feet stick in the mud!
+
+A huge snake jumps out of the water! Purple eyes explode with fire as he looks into the sky! 
+
+Pip can't go forward... Where should he go??
+
+[[Left]] or [[Right]]
+
+
+:: Sneak around {"position":"300,1000","size":"100,100"}
+Pip quietly sneaks around the pillars to the right and goes down a hallway. He sees a door to his left and takes it.
+[[Open door]]
+
+
+:: Take Key {"position":"800,1450","size":"100,100"}
+As Pip grabs the key she vanishes. He is standing in the clearing, all alone. Cold key in hand, he must continue his path. 
+
+[[Walk Forward]]
+
+
+:: Try again? {"position":"600,775","size":"100,100"}
+Pip escapes from the Orx, and runs back to the glowing paths. 
+
+(text-colour:red)[[Follow the glow]] 
+
+
+:: Twist Key {"position":"175,1475","size":"100,100"}
+The key shatters into a million peices. Inside the box he hears the humming. 
+
+It is a small ballarina spinning slowly in a circle. This is where the humming is coming from.
+
+It's not the shard that Pip is looking for.
+
+Pip slowly closes the music box, turns around and heads back to where he took the wrong path.
+
+(text-colour:red)[[Follow the glow]] 
+
+
+:: Walk Forward {"position":"800,1575","size":"100,100"}
+Behind where she sat Pip sees a huge gate. He walks towards it. 
+
+This door needs a key. Help Pip open the door.
+
+[[Place Key]]
+
+
+:: Walk to the beam of light {"position":"1475,1500","size":"100,100"}
+Pip slowly drags himself towards the beam. There is a huge chest atop a rock. 
+
+He pulls himself onto the rock and looks up. He sees a key hole. 
+
+It takes everything out of Pip to bring the key up. 
+
+Can you help him?
+
+[[Lift arm and put key in hole]]
+
+
+:: center path {"position":"1000,675","size":"100,100"}
+Pip sees fireflies fly into the sky, as he runs down the path. 
+
+He thinks to himself, what could they be trying to get away from? Pip has a choice, 
+What should he do? 
+
+[[continue down this path]], or [[wait behind a tree]]. 
+
+
+
+:: continue down this path {"position":"850,825","size":"100,100"}
+Pip continues running down the path. He is surprised to find a swarm of the fireflies. 
+
+They are spinning in the masses, as if they were a tornado!
+
+Pip sees a figure in the middle of the fireflly swarm. 
+
+Help Pip channel his Eldritch Spirit! 
+
+[[Channel]]
+
+
+:: fire arrows {"position":"600,1150","size":"100,100"}
+He draws back his bow, shoots the fire arrow into the swarm. 
+
+The fireflies become frantic and more appear! The swarm is even bigger now!
+
+The fireflies rush to Pip, suffocating him, he is rendered unconcious. He has failed.
+
+(text-colour:red)[[Follow the glow]] 
+
+
+:: forward {"position":"350,825","size":"100,100"}
+The green glow becomes brighter and brighter. Pip has a feeling he is on the right path.
+Pip approaches a glowing green temple... 
+
+He goes up the stairs, peeps his head over the last stair, and sees a glowing green monster! He is huge, slimey, is one mass of goo. He has one eyeball located on his forehead. 
+
+Pip has heard about him before, through voices in the woods.. 
+
+The monsters name is Grook. He is protecting a single key in a box behind him.
+
+Help Pip channel his [[Eldritch Spirit]].
+
+
+
+
+:: frost arrow {"position":"975,1125","size":"100,100"}
+Pip pulls out his bow and shoots his frost arrow into the swarm, the swarm freezed and they all fall to the ground!
+
+The frost settles, this reveals a woman hunched over in the myst.
+ 
+ [[Approach the woman]]
+
+
+
+
+:: left path {"position":"550,500","size":"100,100"}
+He sprints down the path and hears voices in the distance, rappidly approaching him.
+Pip stops running, frantically looks for a place to hide. 
+Where should Pip hide?
+To the [[left there is a thick bush]]. 
+To the [[right there is a fallen log]]. 
+
+
+:: left there is a thick bush {"position":"400,575","size":"100,100"}
+Voices get louder and louder, an army of Orx, a misfigured pig from the island of Waldorl get closer to Pip. Pip holds his breath in the bushes. The Orx walk passed him, and fade into the distance. 
+Pip jumps out of the bushes and continues [[forward]].
+
+
+:: reaches in the chest {"position":"1500,1725","size":"100,100"}
+It is heavier than he imagined it to be. He holds it up with pride! The shard shoots out every color imaginable. 
+
+Pips eyes stream down tears as he watches the land begin to push back the darkness. The land is healing.. All the magical beings are saved! 
+
+Pip sits down, holds the shard, close and closes his eyes.
+
+[[Lay Pip down for a fat nap]]
+
+
+
+
+:: right path {"position":"1450,525","size":"100,100"}
+As Pip is running down the path, it ends. He is greated by a swamp.
+
+The swamp is murky, and many eyes glow purple on the surface of the water.
+
+Pip looks forward.
+
+[[Look Forward]]
+
+
+
+
+
+:: right there is a fallen log {"position":"600,625","size":"100,100"}
+Voices get louder and louder, an army of Orx, a misfigured pig from the island of Waldorl get closer to Pip. One of the Orx sees Pip and puts him in handcuffs. He is now their prisoner...
+
+[[Try again?]]
+
+
+:: wait behind a tree {"position":"1175,850","size":"100,100"}
+Pip looks to his right and finds a tree to wait behind.
+
+Little does he know an Orx, a misfigured pig from the island of Waldorl is lurking behind him.
+
+The Orx's glowing red eyes slowly approach Pip. The Orx puts his hand over Pips mouth, and pulls him into the forest.
+
+Pip bites his hand, gets back on the pack and books it back towards the start of the path!
+
+(text-colour:red)[[Follow the glow]] 
+
